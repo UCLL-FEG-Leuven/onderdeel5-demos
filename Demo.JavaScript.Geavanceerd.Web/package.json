@@ -1,0 +1,16 @@
+{
+  "name": "onderdeel05.demo.javascript.geavanceerd",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm install & concurrently \"cd client && npm install && npm run watch\" \"cd server && npm install && npm run serve\""
+  },
+  "keywords": [
+    "UCLL",
+    "JavaScript",
+    "Geavanceerd"
+  ],
+  "devDependencies": {
+    "concurrently": "^7.5.0"
+  }
+}
