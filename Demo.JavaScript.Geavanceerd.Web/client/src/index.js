@@ -14,3 +14,6 @@ import "../public/js/types/date.js";
 import "../public/js/types/function.js";
 import "../public/js/types/object.js";
 import "../public/js/types/regexp.js";
+
+// DOM
+import "../public/js/dom/form.js";
