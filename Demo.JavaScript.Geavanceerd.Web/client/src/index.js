@@ -16,4 +16,5 @@ import "../public/js/types/object.js";
 import "../public/js/types/regexp.js";
 
 // DOM
+import "../public/js/dom/create.js";
 import "../public/js/dom/form.js";
