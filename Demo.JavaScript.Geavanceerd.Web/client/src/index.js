@@ -15,6 +15,11 @@ import "../public/js/types/function.js";
 import "../public/js/types/object.js";
 import "../public/js/types/regexp.js";
 
+// Asynchronity
+import "../public/js/asynchronity/callback.js";
+import "../public/js/asynchronity/promise.js";
+import "../public/js/asynchronity/async-await.js";
+
 // DOM
 import "../public/js/dom/create.js";
 import "../public/js/dom/form.js";
