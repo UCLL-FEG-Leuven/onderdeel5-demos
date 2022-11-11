@@ -36,4 +36,4 @@ console.log("courses.length: " + courses.length);
 console.log("forEach:");
 courses.forEach((element, index) => { console.log(`Course at index ${index}: ${element}`) });
 console.log("Database courses: " + courses.filter((element) => { return element.indexOf("Databases") >= 0; }));
-console.log("Database courses TO UPPER: " + courses.map((element) => { return element.toUpperCase(); }));
+console.log("Courses TO UPPER: " + courses.map((element) => { return element.toUpperCase(); }));
